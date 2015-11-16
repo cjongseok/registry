@@ -1,0 +1,8 @@
+{
+    "Service": 
+    {
+        "Service": "docker-registry",
+        "Port": 5000
+    }
+    
+}
